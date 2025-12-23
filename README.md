@@ -1,7 +1,10 @@
 # PSFernet
-For using PSFernet you can use this commands with this parameters.
+
+Import Module:
 
 Import-Module -Path .\fernet.psm1
+
+To use PSFernet, run the following commands with these parameters:
 
 Get-AES256Key (no parameters)
 
